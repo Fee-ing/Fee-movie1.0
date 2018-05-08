@@ -1,6 +1,6 @@
 # Fee-movie
 
->NodeJs爬虫项目
+>NodeJs爬虫项目。[新版Fee-movie](https://github.com/Fee-ing/Fee-movie2.0)项目地址
 
 ## 写在前面
 这些资源网站的访问地址可能会经常变换，所以此项目的部分页面有时可能会获取不到数据
